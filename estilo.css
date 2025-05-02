@@ -1,10 +1,29 @@
-@import url("https://fonts.googleapis.com/css2?family=Satisfy&family=Tagesschrift&display=swap");
-@import url()
+@import url("https://fonts.googleapis.com/css2?family=Princess+Sofia&display=swap");
 
-title{
-	background-color: #DACDCB;
-	font-family: "Tagesschrift", system-ui;
+
+
+*
+
+h1{
+	background-color: #3c4887;
+	font-family: "Princess Sofia", cursive;
 	text-align: center;
-	font-size: 2.3rem;
-	color: #d97143;
+	font-size: 5rem;
+	color: #f06ac1;
+}
+
+.prod{
+	background-color: lightpink;
+	width: 80%;
+	margin: 32px 32px 32px 32px;
+	padding: 16px 16px 16px 16px;
+	border-radius: 16px;
+	display: flex;
+	flex-direction: row-reverse;
+	align-items: center;
+}
+
+img{
+	border-radius: 20px;
+	width: 10%;
 }
